@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/articles/linux-commands-and-ssh-some-basics/"}
 ---
 
+#computer
 ## Linux Commands
 
 - file : type of a file
