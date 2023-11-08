@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/main/index/","tags":["gardenEntry"]}
 ---
 
-# Home
+![Logi](assets/logo.png)
 
 **Aspiring physicist, and a Self-Made Consipiracy Theorist.**
 
