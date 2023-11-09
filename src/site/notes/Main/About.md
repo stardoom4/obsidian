@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/about/"}
+{"dg-publish":true,"permalink":"/main/about/","noteIcon":"","created":"2023-11-07T14:05:55.347+05:30"}
 ---
 
 > "I know quite clearly what I want out of my life. Life and my emotions are the only things I am conscious of. I love the consciousness of life and I want as much of it as I can get. But the span of one's life is limited. What comes after death no one knows. Nor do I care. Since, therefore, I cannot increase the content of life by increasing its duration, I will increase it by increasing its intensity. Art, music, poetry and everything else … I do have this one purpose — increasing the intensity of my consciousness of life."
@@ -16,4 +16,4 @@ I am Garuda and you have stumbled upon this site's About Me page. There is nothi
 
 > [Ness Labs](https://nesslabs.com/digital-garden-set-up)
 
-This is a Digital Garden Named "Celestial Minds" and was created using Obsidian and is hosted in Netlify and Files are stored in Github. (Well, Every techie will know this.)
+This is a Digital Garden Named "Celestial Minds" and was created using Obsidian and is hosted in [Netlify](https://netlify.com) and Files are stored in [Github](github.com). 
