@@ -16,4 +16,4 @@ I am Garuda and you have stumbled upon this site's About Me page. There is nothi
 
 > [Ness Labs](https://nesslabs.com/digital-garden-set-up)
 
-This is a Digital Garden Named "Celestial Minds" and was created using Obsidian and is hosted in [Netlify](https://netlify.com) and Files are stored in [Github](github.com). 
+This is a Digital Garden Named "Celestial Minds" and was created using Obsidian and is hosted in [Netlify](https://www.netlify.com) and Files are stored in [Github](https://www.github.com). 
