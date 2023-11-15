@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/microblog/"}
+{"dg-publish":true,"permalink":"/main/microblog/","noteIcon":"","created":"2023-11-07T14:02:30.197+05:30"}
 ---
 
 <u>Tue, 31 Oct</u><br>![IIT Jammu](https://cache.careers360.mobi/media/article_images/2022/6/27/iit-jammu.jpg)<br>The beauty of IIT Jammu.<hr>
