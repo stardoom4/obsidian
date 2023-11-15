@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/storage/"}
+{"dg-publish":true,"permalink":"/main/storage/","noteIcon":"","created":"2023-11-07T13:48:38.427+05:30"}
 ---
 
 ## Article
@@ -13,3 +13,6 @@
 [[astronomy/Grand Unified Theory\|Grand Unified Theory]]
 [[astronomy/Active Nucleus Galaxy\|Active Nucleus Galaxy]]
 [[astronomy/Singularity\|Singularity]]
+[[astronomy/Nebulae\|Nebulae]]
+[[astronomy/Sun\|Sun]]
+[[astronomy/Milky Way\|Milky Way]]
