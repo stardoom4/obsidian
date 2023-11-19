@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/articles/lebensraum/","noteIcon":"","created":"2023-11-07T13:44:22.087+05:30"}
+{"dg-publish":true,"permalink":"/articles/lebensraum/","noteIcon":"","created":"2023-11-19T23:18:08.076+05:30"}
 ---
 
 #ideology
