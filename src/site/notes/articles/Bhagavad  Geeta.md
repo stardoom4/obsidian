@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/articles/bhagavad-geeta/","noteIcon":"","created":"2023-11-19T23:18:08.086+05:30"}
+{"dg-publish":true,"permalink":"/articles/bhagavad-geeta/","noteIcon":"","created":"2023-11-07T13:58:23.867+05:30"}
 ---
 
 #Hinduism
