@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/articles/linux-commands-and-ssh-some-basics/","noteIcon":"","created":"2023-11-19T23:18:08.076+05:30"}
+{"dg-publish":true,"permalink":"/articles/linux-commands-and-ssh-some-basics/","noteIcon":"","created":"2023-11-07T13:52:03.654+05:30"}
 ---
 
 #computer
