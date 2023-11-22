@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/astronomy/galaxy/","noteIcon":"","created":"2023-11-19T23:18:08.276+05:30"}
+{"dg-publish":true,"permalink":"/astronomy/galaxy/","noteIcon":"","created":"2023-11-15T21:23:30.487+05:30"}
 ---
 
 A galaxy is a massive collection of [stars](https://astrobase.miraheze.org/wiki/Stars "Stars"), gas, dust, and other celestial objects bound together by [gravity](https://astrobase.miraheze.org/wiki/Gravity "Gravity"). Galaxies come in a variety of shapes, sizes, and colors, and can range from small, irregularly shaped dwarf galaxies to large, spiral-shaped galaxies containing billions of stars.
