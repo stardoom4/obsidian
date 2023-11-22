@@ -16,3 +16,5 @@
 [[astronomy/Nebulae\|Nebulae]]
 [[astronomy/Sun\|Sun]]
 [[astronomy/Milky Way\|Milky Way]]
+[[astronomy/Big Bang\|Big Bang]]
+[[astronomy/Galaxy\|Galaxy]]
